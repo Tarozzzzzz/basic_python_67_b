@@ -1,6 +1,6 @@
 """
 #
-# Part: Python C;ass abd Object
+# Part: Python Class abd Object
 #
 """
 # Build Class
